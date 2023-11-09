@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>
-    <Grid/>
-  </div>
+    <div>
+      <h3>Grid</h3>
+    </div>
 </template>
